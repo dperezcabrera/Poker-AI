@@ -1,0 +1,5 @@
+{
+  "name": "Texas Hold'em No-Limit Poker",
+  "description": "A single-player Texas Hold'em poker game where you play against six AI opponents. The game features a complete poker experience with betting rounds, community cards, and AI-driven gameplay.",
+  "requestFramePermissions": []
+}
